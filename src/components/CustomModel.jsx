@@ -35,7 +35,7 @@ function CustomModel(props) {
                 <div className="modal-body">
                     <p>From</p>
                     <span className="modal-description">
-                        Mrs. & Mr. Alhaaj T. Shamshuddin Asshrafi Sahab
+                        Mrs. & Mr. T. Hussain Basha Sahab
                     </span>
                 </div>
                 <div className="modal-footer">
