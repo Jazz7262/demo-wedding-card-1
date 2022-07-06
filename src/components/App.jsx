@@ -4,6 +4,7 @@ import Preloader from "./Preloader";
 import English from "./English";
 import Urdu from "./Urdu";
 import BackToTopBtn from "./BackToTopBtn";
+// eslint-disable-next-line
 import DeveloperInfo from "./DeveloperInfo";
 import Audio from "./Audio";
 import CustomModel from "./CustomModel";
@@ -63,7 +64,7 @@ function App() {
                 </Routes>
                 <ChangeLanguage isEnglish={isEnglish} />
             </Router>
-            <DeveloperInfo />
+            {/* <DeveloperInfo /> */}
             <Audio isPlaying={isPlaying} setIsPlaying={setIsPlaying} />
             <BackToTopBtn />
         </>
