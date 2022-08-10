@@ -13,7 +13,7 @@ function Slide() {
                     <img src="./assets/images/heart-bg.png" alt="heart-bg" />
                 </div>
                 <div className="text-content">
-                    <h3>We Are Arranging our daughter's Wedding</h3>
+                    <h3>We Are Arranging our Son's Wedding</h3>
                     <h1>Save Our Date</h1>
                     <p>
                         28<sup>th</sup> May, 2022

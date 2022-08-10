@@ -5,7 +5,7 @@ function BabiesQuote() {
     return (
         <section id="babies-quote">
             <div className="inner-content">
-                <h1>Heartly Welcome To Our Aunty's Marriage ....</h1>
+                <h1>Heartly Welcome To Our Uncle's Marriage ....</h1>
                 <h3>
                     --- Ayan, Rayan, Adnan, Affan, Hasnain.
                     <br />

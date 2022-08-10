@@ -30,7 +30,7 @@ function CountDown(props) {
                             <div className="title">
                                 <div className="content">
                                     <h5>ہم انتظار کر رہے ہیں۔</h5>
-                                    <h1>اس عظیم دن کہ ۔۔۔ </h1>
+                                    <h1>اس عظیم دن کا ۔۔۔ </h1>
                                 </div>
                             </div>
                         </div>

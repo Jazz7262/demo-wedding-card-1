@@ -130,7 +130,7 @@ function Couple() {
 
                     <div className="info">
                         <h3>
-                            Ziya Fatima, <sub>Aalima</sub>
+                            Jasrah Fatima, <sub>Aalima</sub>
                         </h3>
                         <p>
                             D/O Janab Alhaaj Mohammed Hamza Sahab,

@@ -11,7 +11,7 @@ function Header() {
             />
 
             <h3>
-                Begin With The Name Of Allah, The Most Benificient And The Most
+                Begin With The Name Of Allaah, The Most Benificient And The Most
                 Merciful
             </h3>
 

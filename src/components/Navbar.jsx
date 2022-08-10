@@ -66,7 +66,7 @@ function Navbar() {
                         className="icon"
                         size="sm"
                     />
-                    Ziya Fatima
+                    Jasrah
                 </a>
                 <button
                     className="navbar-toggler"
